@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ![React](https://img.shields.io/badge/-React-black?logo=react&style=social)&nbsp;&nbsp;
 
 ### Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zeitakubyoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humanwhodebugs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
