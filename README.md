@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Welcome to my profile!
 - Currently learning full-stack web development.
-- Thanks for visiting and feel free to contact me: muhmmd.rifaii@gmail.com
+- Thanks for visiting and feel free to contact me: humanwhodebugs@gmail.com
 
 ### Languages and Tools:
 ![CSS3](https://img.shields.io/badge/-CSS3-black?logo=css3&style=social)&nbsp;&nbsp;
